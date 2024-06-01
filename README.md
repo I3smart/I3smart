@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
     <b>𝗔𝗪𝗔𝗥𝗗𝗦</b><br>
   <p align="center">  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChinnuNetwork" alt="ChinnuNetwork" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChinnuNetwork" alt="𝕋ℝ𝕀𝕂𝕌ℝ𝔸𝔸 Network" /></a> </p>
 </p>
 
 <p align="Left">
